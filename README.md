@@ -1,12 +1,11 @@
-<!-- Profile banner or gif (optional) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
-</p>
-
 <h1 align="center">Hey there 👋, I'm Sandali Sandagomi!</h1>
 
+<p align="center">
+ <p align="center">
+  <img src="octocat-1754225406104.png" alt="Banner" width="500"/>
+</p>
 
-
+</p>
 
 
 🎓 I'm a **second-year undergraduate** with a love for:
