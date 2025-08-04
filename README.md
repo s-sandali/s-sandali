@@ -1,11 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Sandali Sandagomi!</h1>
+<h1 align="center">Heyyy 👋, I'm Sandali Sandagomi!</h1>
+ <img src="octocat-1754225406104.png" alt="Banner" align="right" width="500"/>
 
-<p align="center">
- <p align="center">
-  <img src="octocat-1754225406104.png" alt="Banner" width="500"/>
-</p>
 
-</p>
 
 
 🎓 I'm a **second-year undergraduate** with a love for:
@@ -13,6 +9,7 @@
 - 🤯 AI/ML and all things data  
 - 🌐 Web Development & UI/UX  
 - 💬 Sharing knowledge and working with great people
+
 
 🚀 I'm always open to **collaboration**, **learning new tech**, or **just geeking out** about code.
 
@@ -22,10 +19,10 @@
 <p>
   <a href="https://www.linkedin.com/in/sandali-sandagomi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    </a>
+
 </p>
 
----
 
 ### 🛠️ Languages and Tools
 <p align="left">
